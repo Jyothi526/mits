@@ -11,4 +11,4 @@ Python developers
     - Deekshitha
   - Chandana
   + Mounika
-  _ Pragna _
+  _Pragna_
